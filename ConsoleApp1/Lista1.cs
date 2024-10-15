@@ -6,7 +6,7 @@ namespace ConsoleApp1
     {
         internal void Exercicio1()
         {
-            throw new NotImplementedException();
+            
         }
 
         internal void Exercicio10()
