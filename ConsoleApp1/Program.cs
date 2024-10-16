@@ -65,6 +65,7 @@ namespace ConsoleApp1
                     Console.WriteLine("10. Números Pares e Ímpares: Escreva um algoritmo que leia um vetor de 10 posições de números inteiros e imprima, logo após, gerar 2 vetores a partir dele, um contendo os elementos de posições ímpares do vetor e o outro os elementos de posições pares. Imprimi-los no final.\n");
 
                     escolhaLista1 = int.Parse(Console.ReadLine());
+                    Console.Clear();
 
                     switch (escolhaLista1)
                     {
